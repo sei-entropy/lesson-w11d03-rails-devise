@@ -37,3 +37,7 @@ It's composed of 10 modules:
 We will practice using documentation today and use the devise documentation as our guide for this lesson
 
 - https://github.com/plataformatec/devise#getting-started
+
+## Steps
+
+You can refer to [this guide](devise-guide.md) for a recap of the steps needed to setup Devise.
